@@ -1,4 +1,5 @@
 # Memory Retro Game [In JavaScript]
+![memory screenshot](https://github.com/artedsolis/memory-retro-games/blob/master/images/screenshot-memory-game.png)
 
 [Click on this link to play with it](https://artedsolis.github.io/memory-retro-games/)
 
