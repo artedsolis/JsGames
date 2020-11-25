@@ -1,1 +1,1 @@
-# Retro Games [In JavaScript and Python]
+# Retro Games [In JavaScript]
